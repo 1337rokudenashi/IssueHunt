@@ -1,4 +1,3 @@
-# Awards
 - Security Researchers at 株式会社サイバーエージェント (see [1337rokudenashi](https://issuehunt.io/programs/72c9712d-1727-47a1-8b1e-e51940135e64/hof))
 - Security Researchers at 株式会社サイバーエージェント (see [1337rokudenashi](https://issuehunt.io/programs/43f8fcd7-430d-47e1-bc1b-4ed59352797d/hof))
 - Security Researchers at 株式会社サイバーエージェント (see [1337rokudenashi](https://issuehunt.io/programs/75563b98-3a9c-4ca3-956d-07b30d5d3962/hof))
